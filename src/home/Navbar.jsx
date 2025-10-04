@@ -11,7 +11,7 @@ function Navbar() {
                     <Menu className=' text-gray-600' size={43}/>
                 </span>
                 
-                <span className='ml-16'><img src='./public/zara log.svg' className='w-50 h-50'/>
+                <span className='ml-16'><img src='https://static.zara.net/assets/public/1868/0697/eef04c818f0e/a50a80c8a64d/50th-anniversary-light-0.svg?ts=1747392117461' className='w-50 h-50'/>
                 
 </span>
             </div>
@@ -36,7 +36,7 @@ function Navbar() {
                     <Menu className=' text-gray-600' size={20}/>
                 </span>
                 
-                <span className='ml-2'><img src='./public/zara log.svg' className='w-30 h-30'/>
+                <span className='ml-2'><img src='https://static.zara.net/assets/public/1868/0697/eef04c818f0e/a50a80c8a64d/50th-anniversary-light-0.svg?ts=1747392117461' className='w-30 h-30'/>
                 
 </span>
            
